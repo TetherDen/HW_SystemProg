@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\bin\Debug\net8.0\hw_01_sys.exe
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\bin\Debug\net8.0\hw_01_sys.deps.json
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\bin\Debug\net8.0\hw_01_sys.runtimeconfig.json
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\bin\Debug\net8.0\hw_01_sys.dll
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\bin\Debug\net8.0\hw_01_sys.pdb
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\obj\Debug\net8.0\hw_01_sys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\obj\Debug\net8.0\hw_01_sys.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\obj\Debug\net8.0\hw_01_sys.AssemblyInfo.cs
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\obj\Debug\net8.0\hw_01_sys.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\obj\Debug\net8.0\hw_01_sys.dll
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\obj\Debug\net8.0\refint\hw_01_sys.dll
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\obj\Debug\net8.0\hw_01_sys.pdb
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\obj\Debug\net8.0\hw_01_sys.genruntimeconfig.cache
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\obj\Debug\net8.0\ref\hw_01_sys.dll
+C:\Users\admin\source\repos\System_Programming\HW_sys\new_hw\hw_01_sys\obj\Debug\net8.0\hw_01_sys.sourcelink.json
