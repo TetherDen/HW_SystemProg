@@ -26,3 +26,4 @@ C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_03_Ants\obj\Debug\ne
 C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_03_Ants\obj\Debug\net8.0\HW_03_Ants.pdb
 C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_03_Ants\obj\Debug\net8.0\HW_03_Ants.genruntimeconfig.cache
 C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_03_Ants\obj\Debug\net8.0\ref\HW_03_Ants.dll
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_03_Ants\obj\Debug\net8.0\HW_03_Ants.sourcelink.json
