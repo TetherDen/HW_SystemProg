@@ -1,0 +1,1661 @@
+<!doctype html>
+<html lang="uk" xmlns:og="http://ogp.me/ns#" class="is_desktop" data-theme="auto">
+
+
+<head>
+	<meta charset="utf-8">
+
+	<title>Спільнота програмістів | DOU</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="facebook-domain-verification" content="seketsl6mwpdvzztmp257ob5icoz53">
+
+
+
+		<meta name="description" content="DOU – Найбільша спільнота розробників України. Все про IT: цікаві статті, інтервʼю, розслідування, дослідження ринку, свіжі новини та події. Спілкування на форумі з айтівцями на найгарячіші теми та технічні матеріали від експертів. Вакансії, рейтинг IT-компаній, відгуки співробітників, аналітика зарплат і мов програмування.">
+
+
+		
+
+
+
+	<meta property="fb:app_id" content="174858425907105">
+
+	<meta property="og:title" content="DOU">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://dou.ua/">
+	<meta property="og:site_name" content="DOU">
+	<meta property="og:image" content="https://s.dou.ua/files/dou-200x200.png">
+
+
+
+
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@doucommunity">
+	<meta name="twitter:url" content="https://dou.ua/">
+	<meta name="twitter:title" content="DOU">
+	<meta name="twitter:image" content="https://s.dou.ua/files/dou-200x200.png">
+
+	<link rel="image_src" href="https://s.dou.ua/files/dou-200x200.png">
+
+
+	<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "url": "https://dou.ua/", "logo": "https://s.dou.ua/storage-files/dou-organization.png"}</script>
+
+	<link rel="icon" sizes="192x192" href="https://s.dou.ua/assets/img/icon.png">
+	<link rel="shortcut icon" sizes="16x16" href="https://s.dou.ua/assets/img/favicon.ico">
+	<link rel="shortcut icon" type="image/png" sizes="32x32" href="https://s.dou.ua/assets/img/favicon32.png">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+			<link rel="alternate" type="application/rss+xml" title="Стрічка" href="https://dou.ua/feed/">
+
+		<link rel="canonical" href="https://dou.ua/">
+
+
+
+		
+	<link type="text/css" rel="stylesheet" href="https://s.dou.ua/build/built.v4025.03d37c1.css" />
+
+
+
+
+
+	<!-- GA 4 -->
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-N62L6SV4PV"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+
+		gtag('config', 'G-N62L6SV4PV', {'content_group': 'dou_content_group'});
+	</script>
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5Q3P7R6');</script>
+	<!-- End Google Tag Manager -->
+
+	<script>
+		var impressions = [];
+	</script>
+</head>
+
+<body class="page-index">
+
+	<div class="g-page">
+
+
+		<div id="topError" class="top-msg"></div>
+
+
+
+
+
+
+
+
+
+<header class="b-head">
+
+	<ul>
+		<li class="logo"><a href="https://dou.ua/" aria-label=" DOU Logo"></a></li>
+			<li class="m-hide"><a href="https://dou.ua/" class="sel">Головна</a></li>
+			<li><a href="https://dou.ua/forums/">Форум</a></li>
+			<li><a href="https://dou.ua/lenta/">Стрічка</a></li>
+			<li><a href="https://jobs.dou.ua/salaries/">Зарплати</a></li>
+			<li><a href="https://jobs.dou.ua/">Робота</a></li>
+			<li class="m-last"><a href="https://dou.ua/calendar/">Календар</a></li>
+			<li class="m-hide"><a href="#communities">Спільноти</a></li>
+
+						<li class="t-hide custom_menu_item"><a href="https://dou.ua/goto/7akO" target="_blank" style="color:#7cdcfb;position:relative"><img src="https://s.dou.ua/storage-files/robot_1f916_1.png" style="width: 16px;display: inline-block;position: relative;top: 2px;margin-right: 2px;">	Офлайн DOU AI meetup<i style="position:absolute;top: -8px;left: 30px;white-space: nowrap;font-style: normal;text-transform: none;font-size: 11px;font-weight: normal;font-family: 'pt sans';">10 жовтня, Київ</i></a></li>
+
+
+
+	</ul>
+
+	<div class="right-part">
+			<form class="search" action="//dou.ua/search/" method="get">
+				<input class="inp" id="txtGlobalSearch" type="text" placeholder="пошук" name="q">
+			</form>
+
+
+			<a class="menu-site menu-site__gamedev" href="https://gamedev.dou.ua/?from=button" title="GameDev"></a>
+
+			<a id="login-link" href="javascript:;">Вхід і реєстрація</a>
+	</div>
+</header>
+
+
+	<div class="l-content m-content">
+		<div class="l-content-wrap">
+			<div class="col2 m-hide"></div>
+			<div class="col70 m-cola" >
+			<ul class="b-index-links">
+	<li><a style="color:#00ae00" href="https://jobs.dou.ua/first-job/?from=doufp">Перша робота</a></li>
+	<li><a style="color:#ae0000" href="https://dou.ua/lenta/projects/ukrainian-miltech-guide/?from=doufp">Miltech-путівник</a></li>
+	 <li><a style="color:#00ae00" href="https://dou.ua/lenta/tags/%D1%80%D0%B8%D0%BD%D0%BE%D0%BA%20%D0%BF%D1%80%D0%B0%D1%86%D1%96%20%D0%BF%D1%96%D0%B4%20%D1%87%D0%B0%D1%81%20%D0%B2%D1%96%D0%B9%D0%BD%D0%B8/?from=doufp">Ринок праці</a></li>
+	<li><a style="color:#6699FF;" href="https://dou.ua/lenta/articles/top-50-summer-2024/?from=doufp">Топ-50</a></li>
+	<li>
+		<a href="https://dou.ua/lenta/articles/top-books-2022/?from=doufp">Рейтинг книжок</a>, <a href="https://jobs.dou.ua/ratings/?from=doufp">компаній</a>,
+		<a href="https://dou.ua/lenta/articles/ukrainian-universities-2023/?from=doufp">вишів</a>,
+		<a href="https://dou.ua/lenta/articles/language-rating-2024/?from=doufp">мов</a>
+	</li>
+	<li><a style="color:#f58025" href="https://dou.ua/lenta/articles/portrait-2024/?from=doufp">Портрет айтівця</a></li>
+         <li><a style="color:#df2128" href="https://dou.ua/lenta/articles/diia-city-registry/?from=doufp">Реєстр Дія City</a></li>
+</ul>
+
+
+			
+
+
+
+
+
+
+<div class="b-most-interesting">
+	<div class="title m-hide" id="slideBalls_wrap">
+		<div id="slideBalls" class="b-balls">
+			<div class="black-ball"></div>
+			<div class="bg-b"></div>
+			<ul>
+					<li num='1'></li>
+					<li num='2'></li>
+					<li num='3'></li>
+					<li num='4'></li>
+					<li num='5'></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="l-content m-db">
+		<div class="colgroup m-hide m-db">
+			<div class="col col430px"></div>
+			<div class="col col20px"></div>
+			<div class="col col-auto"></div>
+		</div>
+		<div class="l-content-wrap m-db">
+			<div class="cell m-db m-hide">
+					<div class="b-switcher" id="slideArticles">
+						<div class="l-arrow"></div>
+						<div class="r-arrow"></div>
+							<ul class="slide" style="width:2215px;left:0">
+									<li>
+										<a class="link" href="https://dou.ua/forums/topic/50468/?from=slider">
+											<img src="https://s.dou.ua/CACHE/images/img/announces/%D0%B7%D0%BC%D0%B5%D0%BD%D1%88%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B7%D0%BF/94eae6a871337174d8f0b1c5e43f3656.png" srcset="https://s.dou.ua/img/announces/%D0%B7%D0%BC%D0%B5%D0%BD%D1%88%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B7%D0%BF.png 1.1x" alt="">
+											<span class="link-title">Обговорюємо альтернативи зниженню зарплати</span></a>
+										<div class="announce">
+											Обговорюємо можливі альтернативи зниженню зарплати: скорочений робочий тиждень,
+додаткові корпоративні бенефіти, залучення в ще більше проєктів... Що для вас є прийнятним? Чи краще одразу шукати новий проєкт?&nbsp;<a href="https://dou.ua/forums/topic/50468/?from=slider#comments" class="g-comments-round __lazy" data-id="121079">47</a>
+										</div>
+									</li>
+									<li>
+										<a class="link" href="https://dou.ua/lenta/articles/dou-podcast-80/?from=slider">
+											<img src="https://s.dou.ua/CACHE/images/img/announces/podcast-80-cover-1920-min/48c433a77846d52b6e2d8afbd394250b.jpg" srcset="https://s.dou.ua/img/announces/podcast-80-cover-1920-min.jpg 1.1x" alt="">
+											<span class="link-title">Коли перемога, які будуть податки та що робити з Трампом — DOU Podcast #80</span></a>
+										<div class="announce">
+											У новому випуску DOU Podcast обговорюємо позиції Трампа у виборчій гонці в США, підвищення податків в Україні, економічне бронювання та коли буде перемога України. Нумо дивитися!&nbsp;<a href="https://dou.ua/lenta/articles/dou-podcast-80/?from=slider#comments" class="g-comments-round __lazy" data-id="121175">8</a>
+										</div>
+									</li>
+									<li>
+										<a class="link" href="https://dou.ua/lenta/articles/senior-node-js-developer-skills-2024/?from=slider">
+											<img src="https://s.dou.ua/CACHE/images/img/announces/senior-nodejs-dev-840/ef2bf41087e5d9dd5d6e66944ed81783.png" srcset="https://s.dou.ua/img/announces/senior-nodejs-dev-840.png 1.1x" alt="">
+											<span class="link-title">Що має знати Senior Node.js Developer і які червоні прапорці виникають на співбесіді</span></a>
+										<div class="announce">
+											Кількість вакансій для фахівців з Node.js поступово зростає. В серпні для них було 187 пропозицій — це найвищий показник за останні два роки. Тож ми проаналізували, які знання та навички потрібні роботодавцям від досвідчених Node.js розробників та що відрізняє сеньйорів в цій галузі від мідлів.&nbsp;<a href="https://dou.ua/lenta/articles/senior-node-js-developer-skills-2024/?from=slider#comments" class="g-comments-round __lazy" data-id="121129">1</a>
+										</div>
+									</li>
+									<li>
+										<a class="link" href="https://gamedev.dou.ua/articles/3d-artist-portfolio-pipeline-and-swedish-gamedev/?from=slider">
+											<img src="https://s.dou.ua/CACHE/images/img/announces/spikerka1/bab21e8f78aa2e97659498ffeaf4c07d.jpg" srcset="https://s.dou.ua/img/announces/spikerka1.jpg 1.1x" alt="">
+											<span class="link-title">Senior 3D Artist — про нюанси шведського геймдеву, першу гру за мотивами Star Wars та підхід до створення особистих проєктів</span></a>
+										<div class="announce">
+											Олександра Сокол професійно створює зброю для ігор. Гвинтівки з різних епох, кулемети, панцершреки, мортири і вибухівка — в її портфоліо потужний арсенал, а за плечима — робота в Edkon Games, Ulysses Graphics та швецькій Sharkmob. В інтервʼю 3D-художниця розповіла про своє професійне становлення, продемонструвала свій пайплайн і пояснила, чому пет-проєкти важливі для успішної кар’єри.&nbsp;<a href="https://gamedev.dou.ua/articles/3d-artist-portfolio-pipeline-and-swedish-gamedev/?from=slider#comments" class="g-comments-round __lazy" data-id="121096">1</a>
+										</div>
+									</li>
+									<li>
+										<a class="link" href="https://dou.ua/lenta/articles/the-future-of-ukraine-discussion/?from=slider">
+											<img src="https://s.dou.ua/CACHE/images/img/announces/DOUpicnicday-discussion-future-smaller/49f08f7de52cc665e877edfa19fd67c3.jpg" srcset="https://s.dou.ua/img/announces/DOUpicnicday-discussion-future-smaller.jpg 1.1x" alt="">
+											<span class="link-title">«Є ілюзія, наче війна об’єднує, але це лише частина правди». Мараєв, Матвійчук, Краснопьоров про майбутнє України</span></a>
+										<div class="announce">
+											Що об’єднує українців, а що загрожує нашій національній єдності? Який план дій для майбутнього варто готувати вже зараз? І що буде з нашою ідентичністю? Публікуємо запис і текстову версію розмови Владлена Мараєва, Валентина Краснопьорова і Олександри Матвійчук на DOU Day Picnic.&nbsp;<a href="https://dou.ua/lenta/articles/the-future-of-ukraine-discussion/?from=slider#comments" class="g-comments-round __lazy" data-id="121095">29</a>
+										</div>
+									</li>
+							</ul>
+					</div>
+			</div>
+			<div class="cell m-hide"></div>
+			<div class="cell m-db">
+					<div class="b-articles">
+			<ul class="b-articles-switch">
+		<li class="current">
+			<a href="#" data-articles="fp-articles_recent">Свіже</a>
+		</li>
+		<li>
+			<a href="#">Популярне</a>
+
+			<select >
+				<option value="fp-articles_top1m">за місяць</option>
+				<option value="fp-articles_top12m">за рік</option>
+			</select>
+		</li>
+	</ul>
+
+			<ul class="l-articles" id="fp-articles_recent">
+
+				<li>
+					<div class="info">
+						25 вересня
+							· <a href="https://dou.ua/lenta/articles/">Статті</a>
+					</div>
+					<a class="link bi bi-pin-angle-fill" href="https://dou.ua/lenta/articles/the-future-of-ukraine-discussion/?from=recent_pinned">«Є ілюзія, наче війна об’єднує, але це лише частина правди». Мараєв, Матвійчук, Краснопьоров про майбутнє України</a>&nbsp;<a href="https://dou.ua/lenta/articles/the-future-of-ukraine-discussion/#comments" class="g-comments-round __lazy" data-id="121095">29</a>
+				</li>
+				<li>
+					<div class="info">
+						27 вересня
+							· <a href="https://dou.ua/lenta/articles/">Статті</a>
+					</div>
+					<a class="link " href="https://dou.ua/lenta/articles/dou-podcast-80/?from=recent">Коли перемога, які будуть податки та що робити з Трампом — DOU Podcast #80</a>&nbsp;<a href="https://dou.ua/lenta/articles/dou-podcast-80/#comments" class="g-comments-round __lazy" data-id="121175">8</a>
+				</li>
+				<li>
+					<div class="info">
+						26 вересня
+							· <a href="https://dou.ua/lenta/articles/">Статті</a>
+					</div>
+					<a class="link " href="https://dou.ua/lenta/articles/senior-node-js-developer-skills-2024/?from=recent">Що має знати Senior Node.js Developer і які червоні прапорці виникають на співбесіді</a>&nbsp;<a href="https://dou.ua/lenta/articles/senior-node-js-developer-skills-2024/#comments" class="g-comments-round __lazy" data-id="121129">1</a>
+				</li>
+				<li>
+					<div class="info">
+						24 вересня
+							· <a href="https://dou.ua/lenta/articles/">Статті</a>
+					</div>
+					<a class="link " href="https://dou.ua/lenta/articles/devops-engineer-career/?from=recent">DevOps Engineer: чим займається у компанії та що потрібно знати для роботи на цій позиції</a>&nbsp;<a href="https://dou.ua/lenta/articles/devops-engineer-career/#comments" class="g-comments-round __lazy" data-id="121056">8</a>
+				</li>
+				<li>
+					<div class="info">
+						23 вересня
+							· <a href="https://dou.ua/lenta/articles/">Статті</a>
+					</div>
+					<a class="link " href="https://dou.ua/lenta/articles/dou-news-165/?from=recent">Telegram заборонили | Скорочення в ІТ-гігантів | Атомна станція для Microsoft — DOU News #164</a>
+				</li>
+				<li>
+					<div class="info">
+						23 вересня
+							· <a href="https://dou.ua/lenta/articles/">Статті</a>
+					</div>
+					<a class="link " href="https://dou.ua/lenta/articles/ai-wont-steal-our-development-job/?from=recent">Українські розробники менше бояться конкуренції з ШІ, ніж айтівці на Stack Overflow. Аналітика</a>&nbsp;<a href="https://dou.ua/lenta/articles/ai-wont-steal-our-development-job/#comments" class="g-comments-round __lazy" data-id="121035">16</a>
+				</li>
+				<li>
+					<div class="info">
+						21 вересня
+							· <a href="https://dou.ua/lenta/articles/">Статті</a>
+					</div>
+					<a class="link " href="https://dou.ua/lenta/articles/dou-day-picnic-personal-brand/?from=recent">Як будувати особистий бренд і що робити з гейтерами. Досвідом поділилися Сергій Бабіч, Анастасія Войтова і Віктор Турський</a>&nbsp;<a href="https://dou.ua/lenta/articles/dou-day-picnic-personal-brand/#comments" class="g-comments-round __lazy" data-id="121024">59</a>
+				</li>
+				<li>
+					<div class="info">
+						20 вересня
+							· <a href="https://dou.ua/lenta/articles/">Статті</a>
+					</div>
+					<a class="link " href="https://dou.ua/lenta/articles/welcome-boxes-2024/?from=recent">Що IT-компанії дарують новачкам у перший робочий день. Фотоогляд</a>&nbsp;<a href="https://dou.ua/lenta/articles/welcome-boxes-2024/#comments" class="g-comments-round __lazy" data-id="120995">28</a>
+				</li>
+	</ul>
+
+		
+			<ul class="l-articles hidden" id="fp-articles_top1m">
+					<li>
+						<div class="info">18 вересня · <span class="pageviews">32987</span></div>
+						<a class="link" href="https://dou.ua/lenta/interviews/yurii-gaidai-interview/?from=fp_top1m">Про підвищення податків для ІТ, економічне бронювання та майбутнє ФОПів. Інтервʼю з Юрієм Гайдаєм</a>
+					</li>
+					<li>
+						<div class="info">9 вересня · <span class="pageviews">23489</span></div>
+						<a class="link" href="https://dou.ua/lenta/articles/portrait-2024/?from=fp_top1m">Портрет айтівця 2024. Як змінилося українське IT за 10 років</a>
+					</li>
+					<li>
+						<div class="info">20 вересня · <span class="pageviews">19426</span></div>
+						<a class="link" href="https://dou.ua/lenta/articles/welcome-boxes-2024/?from=fp_top1m">Що IT-компанії дарують новачкам у перший робочий день. Фотоогляд</a>
+					</li>
+					<li>
+						<div class="info">4 вересня · <span class="pageviews">10985</span></div>
+						<a class="link" href="https://dou.ua/lenta/articles/it-job-market-august-2024/?from=fp_top1m">Рекорд вакансій за час повномасштабного вторгнення, ремоут зростає. Огляд IT-ринку праці, серпень 2024</a>
+					</li>
+					<li>
+						<div class="info">12 вересня · <span class="pageviews">10383</span></div>
+						<a class="link" href="https://dou.ua/lenta/articles/front-end-test-tasks-examples/?from=fp_top1m">Тестові завдання для фронтенд-розробників: приклади з українських компаній</a>
+					</li>
+					<li>
+						<div class="info">5 вересня · <span class="pageviews">10032</span></div>
+						<a class="link" href="https://dou.ua/lenta/articles/export-components-for-drones-from-china/?from=fp_top1m">Китай забороняє експорт компонентів до дронів. Як це вплине на спільноту</a>
+					</li>
+					<li>
+						<div class="info">17 вересня · <span class="pageviews">9887</span></div>
+						<a class="link" href="https://dou.ua/lenta/news/tax-law-first-reading-accepted/?from=fp_top1m">Рада підтримала у першому читанні податковий законопроєкт. Перед цим IT-об’єднання закликали його змінити</a>
+					</li>
+					<li>
+						<div class="info">11 вересня · <span class="pageviews">9666</span></div>
+						<a class="link" href="https://dou.ua/lenta/interviews/about-reforms-in-nau/?from=fp_top1m">«Тепер ми перший виш, який має фінансову автономію». Бліцінтервʼю з Ксенією Семеновою про реформи в НАУ</a>
+					</li>
+			</ul>
+			<ul class="l-articles hidden" id="fp-articles_top12m">
+					<li>
+						<div class="info">26 грудня 2023 · <span class="pageviews">399472</span></div>
+						<a class="link" href="https://dou.ua/lenta/articles/electronic-register-oberig/?from=fp_top12m">«Щоб не надсилати повістки подвійно й потрійно людям, які вже воюють». Як влаштований реєстр військовозобов’язаних «Оберіг»</a>
+					</li>
+					<li>
+						<div class="info">8 травня · <span class="pageviews">252977</span></div>
+						<a class="link" href="https://dou.ua/lenta/interviews/register-oberig-blitz/?from=fp_top12m">10 запитань про «Оберіг»: хто матиме доступ до даних і як їх верифікуватимуть</a>
+					</li>
+					<li>
+						<div class="info">17 квітня · <span class="pageviews">112707</span></div>
+						<a class="link" href="https://dou.ua/lenta/articles/mobilization-law-explainer-2024/?from=fp_top12m">Що буде з повістками, оновленням даних, освітою та іншим. Розбираємо з юристами закон про мобілізацію</a>
+					</li>
+					<li>
+						<div class="info">2 травня · <span class="pageviews">106825</span></div>
+						<a class="link" href="https://dou.ua/lenta/news/about-e-service-for-conscripts/?from=fp_top12m">У Міноборони розʼяснили, які саме дані треба буде оновити військовозобовʼязаним до 16 липня (UPD)</a>
+					</li>
+					<li>
+						<div class="info">14 лютого · <span class="pageviews">92476</span></div>
+						<a class="link" href="https://dou.ua/lenta/articles/contract-vs-mobilization/?from=fp_top12m">Чим відрізняється служба за мобілізацією і контрактом. Розповідаємо деталі</a>
+					</li>
+					<li>
+						<div class="info">12 липня · <span class="pageviews">91022</span></div>
+						<a class="link" href="https://dou.ua/lenta/articles/refining-the-data/?from=fp_top12m">Уточнення даних до 16 липня. Що варто зробити і яка відповідальність за порушення</a>
+					</li>
+					<li>
+						<div class="info">6 червня · <span class="pageviews">82879</span></div>
+						<a class="link" href="https://dou.ua/lenta/articles/data-updates-and-deferments/?from=fp_top12m">Що нового треба знати про повістки, відстрочки і QR-код у застосунку «Резерв+»</a>
+					</li>
+					<li>
+						<div class="info">21 лютого · <span class="pageviews">76506</span></div>
+						<a class="link" href="https://dou.ua/lenta/interviews/work-in-the-military-committee/?from=fp_top12m">«Обов’язок захищати Батьківщину не може бути предметом торгу». Історія айтівця, який служив у ТЦК, роздавав повістки, а зараз працює у підрозділі ППО</a>
+					</li>
+			</ul>
+
+
+
+		<div class="links">
+			<span class="all-materials-section">
+				<a class="all-materials" href='https://dou.ua/lenta/'>Всі матеріали</a><span class="corner"></span>
+			</span>
+
+			<span class="all-materials-section">
+				<a class="all-materials __add" href='/forum-articles-howto/'>Надіслати статтю</a><span class="corner __add"></span>
+			</span>
+		</div>
+	</div>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+	<div class="l-content m-db">
+		<div class="l-content-wrap m-db">
+			<div class="col24 m-db m-cola" style="width:420px;">
+
+
+<div class="b-block">
+	<div class="title __separated">
+		<h3>
+			<a href="https://dou.ua/forums/tags/tech/?from=fptech">Технічні статті</a> <a href="https://dou.ua/goto/xeIs">
+			<img alt="Telegram dou#tech" src="https://s.dou.ua/assets/img/telegram.svg" style="display: inline-block;margin-left: 3px;position: relative;top: 3px;" width="19" height="19"></a>
+		</h3>
+	</div>
+
+	<div class="b-articles b-articles_tech">
+		<ul class="l-articles">
+				<li>
+					<div class="info">
+						27 вересня
+					</div>
+
+					<a class="link" href="https://dou.ua/forums/topic/50466/?from=fptech">Автоматизуємо використання адаптивних зображень для вебсайтів за допомогою Node.js</a>
+				</li>
+				<li>
+					<div class="info">
+						27 вересня
+					</div>
+
+					<a class="link" href="https://dou.ua/forums/topic/50472/?from=fptech">iOS дайджест #68: акселератор для Swift, оновлення Vapor 5, головне з Apple Event | @mainNews 29</a>
+				</li>
+				<li>
+					<div class="info">
+						26 вересня
+					</div>
+
+					<a class="link" href="https://dou.ua/forums/topic/50217/?from=fptech">Як керувати поведінкою e2e-тестів Playwright з TypeScript-декораторами</a>
+				</li>
+				<li>
+					<div class="info">
+						26 вересня
+					</div>
+
+					<a class="link" href="https://dou.ua/forums/topic/50100/?from=fptech">Як налаштувати Dragonfly Cluster: покроковий гайд</a>&nbsp;<a href="https://dou.ua/forums/topic/50100/?from=fptech#comments" class="g-comments-round __lazy" data-id="120249">2</a>
+				</li>
+				<li>
+					<div class="info">
+						25 вересня
+					</div>
+
+					<a class="link" href="https://dou.ua/forums/topic/50475/?from=fptech">Node.js Digest #14: Express.js v5.0, Deno 2 та важке життя open source</a>
+				</li>
+
+			<li class="more"><a class="link" href="https://dou.ua/forums/tags/tech/?from=fptech_more">Всі технічні статті</a></li>
+		</ul>
+	</div>
+</div>			</div>
+			<div class="col2 m-hide"></div>
+			<div class="col44 m-hide" style="width:auto;">
+
+
+<div class="b-index-columnisty b-block">
+	<div class="title __separated">
+		<h3><a href="https://dou.ua/forums/blogs/?from=fpcol">Блоги</a></h3>
+	</div>
+
+	<ul class="column-list">
+			<li class="column-list-item">
+				<div class="author">
+					<a href="https://dou.ua/users/oleksandr-oleksyn/">
+							<img class="g-avatar" src="https://s.dou.ua/img/avatars/40x40_img4148_SHJXYvS.JPG" width="40" height="40" alt=""  srcset="https://s.dou.ua/img/avatars/80x80_img4148_SHJXYvS.JPG 1.1x">
+						Oleksandr Oleksyn
+					</a>
+				</div>
+				<a class="link" href="https://dou.ua/forums/topic/50521/?from=fpcol">Окремий mobile-розробник чи універсальний фахівець: що найкраще обрати для вашого проєкту</a>
+			</li>
+			<li class="column-list-item">
+				<div class="author">
+					<a href="https://dou.ua/users/maksym-galiyov/">
+							<img class="g-avatar" src="https://s.dou.ua/img/avatars/40x40_725513.jpg" width="40" height="40" alt=""  srcset="https://s.dou.ua/img/avatars/80x80_725513.jpg 1.1x">
+						Maksym Galiyov
+					</a>
+				</div>
+				<a class="link" href="https://dou.ua/forums/topic/50486/?from=fpcol">Product Digest #0: AI повсюди, інновації Grammarly та інсайти від Notion</a>&nbsp;<a href="https://dou.ua/forums/topic/50486/?from=fpcol#comments" class="g-comments-round __lazy" data-id="121124">1</a>
+			</li>
+			<li class="column-list-item">
+				<div class="author">
+					<a href="https://dou.ua/users/anton-shuliak/">
+							<img class="g-avatar" src="https://s.dou.ua/img/avatars/40x40_photo2020-11-1519-02-20.jpg" width="40" height="40" alt=""  srcset="https://s.dou.ua/img/avatars/80x80_photo2020-11-1519-02-20.jpg 1.1x">
+						Anton Shuliak
+					</a>
+				</div>
+				<a class="link" href="https://dou.ua/forums/topic/50482/?from=fpcol">Як подолати виклики A/B-тестування монетизації у мобільних застосунках</a>&nbsp;<a href="https://dou.ua/forums/topic/50482/?from=fpcol#comments" class="g-comments-round __lazy" data-id="121114">3</a>
+			</li>
+			<li class="column-list-item">
+				<div class="author">
+					<a href="https://dou.ua/users/viktor-zozulyuk/">
+							<img class="g-avatar" src="https://s.dou.ua/img/avatars/40x40_zozuliuk-viktor-2.jpg" width="40" height="40" alt=""  srcset="https://s.dou.ua/img/avatars/80x80_zozuliuk-viktor-2.jpg 1.1x">
+						Viktor Zozuliuk
+					</a>
+				</div>
+				<a class="link" href="https://dou.ua/forums/topic/50424/?from=fpcol">Нейронки, пошук інформації, книги та відео — огляд основних методів навчання в IT</a>&nbsp;<a href="https://dou.ua/forums/topic/50424/?from=fpcol#comments" class="g-comments-round __lazy" data-id="121000">7</a>
+			</li>
+		<li class="more"><a class="link" href="https://dou.ua/forums/blogs/?from=fpcol_more">Всі блоги</a></li>
+	</ul>
+</div>			</div>
+		</div>
+	</div>
+
+
+
+
+
+<div class="b-block b-block_news">
+	<div class="title">
+		<h3>
+			<a href="https://dou.ua/lenta/news/?from=fpnews">Новини</a>
+		</h3>
+	</div>
+
+	<div class="b-articles b-articles_tech b-articles__compact">
+		<ul class="l-articles">
+				<li>
+					<div class="info">
+							27.09
+					</div>
+
+					<a class="link" href="https://dou.ua/lenta/news/start-e-resident-in-ukraine/?from=fpnews">Офіційний старт е-резидентства в Україні. Михайло Федоров розповів деталі про проєкт</a>
+				</li>
+				<li>
+					<div class="info">
+							27.09
+					</div>
+
+					<a class="link" href="https://dou.ua/lenta/news/online-service-for-conscripts-start/?from=fpnews">Рекрутинг і відстрочки онлайн. Коли у «Резерв+» запустять ці послуги</a>&nbsp;<a href="https://dou.ua/lenta/news/online-service-for-conscripts-start/?from=fpnews#comments" class="g-comments-round __lazy" data-id="121195">5</a>
+				</li>
+				<li>
+					<div class="info">
+							26.09
+					</div>
+
+					<a class="link" href="https://dou.ua/lenta/news/dmytro-lider-grammarly/?from=fpnews">Зміни в топменеджменті Grammarly. Співзасновник Дмитро Лідер вийшов з операційного управління</a>
+				</li>
+				<li>
+					<div class="info">
+							26.09
+					</div>
+
+					<a class="link" href="https://dou.ua/lenta/news/lobby-x-research-on-mobilization/?from=fpnews">Що думають українці про мобілізацію та за яких умов готові йти до війська. Результати опитування Lobby X</a>&nbsp;<a href="https://dou.ua/lenta/news/lobby-x-research-on-mobilization/?from=fpnews#comments" class="g-comments-round __lazy" data-id="121167">27</a>
+				</li>
+				<li>
+					<div class="info">
+							26.09
+					</div>
+
+					<a class="link" href="https://dou.ua/lenta/news/electronics-laboratory-in-nau/?from=fpnews">В НАУ відкрили лабораторію електроніки. Студенти зможуть тут розробляти власні пет-проєкти</a>
+				</li>
+				<li>
+					<div class="info">
+							26.09
+					</div>
+
+					<a class="link" href="https://dou.ua/forums/topic/50495/?from=fpnews">Міра Мураті звільняється з посади СТО OpenAI, щоб займатись «власним дослідженням»</a>&nbsp;<a href="https://dou.ua/forums/topic/50495/?from=fpnews#comments" class="g-comments-round __lazy" data-id="121136">28</a>
+				</li>
+
+			<li class="more"><a class="link" href="https://dou.ua/lenta/news/?from=fpnews_more">Всі новини</a></li>
+		</ul>
+	</div>
+</div>
+			
+
+
+	<div class="l-content m-db">
+		<div class="l-content-wrap m-db">
+			<div class="col24 m-db m-cola">
+
+<div class="b-block b-index-forum">
+	<div class="title __separated">
+		<h3><a href="https://dou.ua/forums/?from=fptopics">Популярне на форумі</a></h3>
+	</div>
+
+	<ul>
+			<li class="item">
+				<div class="info">
+					18 вересня ·
+					<a href="https://dou.ua/forums/misc/">Різне</a>				</div>
+				<a class="topic-link" href="https://dou.ua/forums/topic/50394/?from=fptopics">Як податкова реформа вплине на вас?</a>&nbsp;<a href="https://dou.ua/forums/topic/50394/?from=fptopics#comments" class="g-comments-round __lazy" data-id="120931">844</a>
+			</li>
+			<li class="item">
+				<div class="info">
+					23 вересня ·
+					<a href="https://dou.ua/forums/work/">Про роботу</a>				</div>
+				<a class="topic-link" href="https://dou.ua/forums/topic/50450/?from=fptopics">Як правити код дуже поганої якості?</a>&nbsp;<a href="https://dou.ua/forums/topic/50450/?from=fptopics#comments" class="g-comments-round __lazy" data-id="121046">201</a>
+			</li>
+			<li class="item">
+				<div class="info">
+					26 вересня ·
+					<a href="https://dou.ua/forums/gamedev/">GameDev</a>				</div>
+				<a class="topic-link" href="https://gamedev.dou.ua/forums/topic/50509/?from=fptopics">Замість інженера з дронів мене відправили в штурмовики. Мій досвід служби у війську</a>&nbsp;<a href="https://gamedev.dou.ua/forums/topic/50509/?from=fptopics#comments" class="g-comments-round __lazy" data-id="121176">174</a>
+			</li>
+			<li class="item">
+				<div class="info">
+					18 вересня ·
+					<a href="https://dou.ua/forums/work/">Про роботу</a>				</div>
+				<a class="topic-link" href="https://dou.ua/forums/topic/50388/?from=fptopics">Amazon з наступного року виводить всіх в офіс і скорочує менеджерів</a>&nbsp;<a href="https://dou.ua/forums/topic/50388/?from=fptopics#comments" class="g-comments-round __lazy" data-id="120917">169</a>
+			</li>
+			<li class="item">
+				<div class="info">
+					24 вересня ·
+					<a href="https://dou.ua/forums/job-search/">Пошук роботи</a>				</div>
+				<a class="topic-link" href="https://dou.ua/forums/topic/50469/?from=fptopics">Як зараз іноземні замовники ставляться до Харкова?</a>&nbsp;<a href="https://dou.ua/forums/topic/50469/?from=fptopics#comments" class="g-comments-round __lazy" data-id="121083">90</a>
+			</li>
+			<li class="item">
+				<div class="info">
+					25 вересня ·
+					<a href="https://dou.ua/forums/misc/">Різне</a>				</div>
+				<a class="topic-link" href="https://dou.ua/forums/topic/50484/?from=fptopics">Як ШІ вплинув на ваше життя?</a>&nbsp;<a href="https://dou.ua/forums/topic/50484/?from=fptopics#comments" class="g-comments-round __lazy" data-id="121121">64</a>
+			</li>
+			<li class="item">
+				<div class="info">
+					29 вересня ·
+					<a href="https://dou.ua/forums/development/">Розробка</a>				</div>
+				<a class="topic-link" href="https://dou.ua/forums/topic/50517/?from=fptopics">П’ята Ахіллеса для ChatGPT</a>&nbsp;<a href="https://dou.ua/forums/topic/50517/?from=fptopics#comments" class="g-comments-round __lazy" data-id="121188">56</a>
+			</li>
+			<li class="item">
+				<div class="info">
+					24 вересня ·
+					<a href="https://dou.ua/forums/job-search/">Пошук роботи</a>				</div>
+				<a class="topic-link" href="https://dou.ua/forums/topic/50468/?from=fptopics">Обговорюємо альтернативи зниженню зарплати</a>&nbsp;<a href="https://dou.ua/forums/topic/50468/?from=fptopics#comments" class="g-comments-round __lazy" data-id="121079">47</a>
+			</li>
+			<li class="item">
+				<div class="info">
+					26 вересня ·
+					<a href="https://dou.ua/forums/misc/">Різне</a>				</div>
+				<a class="topic-link" href="https://dou.ua/forums/topic/50494/?from=fptopics">За останні два роки зросла частка айтівців, хто витрачає все зароблене. Це про вас?</a>&nbsp;<a href="https://dou.ua/forums/topic/50494/?from=fptopics#comments" class="g-comments-round __lazy" data-id="121135">43</a>
+			</li>
+	</ul>
+</div>			</div>
+			<div class="col2 m-hide"></div>
+			<div class="col44 m-db m-cola">
+					
+	<div class="b-index-discussions b-block">
+			<div class="title">
+				<h3>Обговорюють зараз</h3>
+			</div>
+
+				<div class="interesting-comment">
+					<a href="https://dou.ua/forums/topic/50468/?from=fpcomments#2881867" class="comment">
+						<span class="inner">Альтернативою зниження ЗП є підвищення ЗП.</span>
+					</a>
+					<div class="meta">
+						<a class="userlink" href="https://dou.ua/users/viktor-levytskyi-1/">
+								<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_307881.jpg" width="25" height="25" alt=""  srcset="https://s.dou.ua/img/avatars/50x50_307881.jpg 1.1x">
+							Viktor Levytskyi</a>
+в події						<a href="https://dou.ua/forums/topic/50468/?from=fpcomments">Обговорюємо альтернативи зниженню зарплати</a>
+					</div>
+				</div>
+				<div class="interesting-comment">
+					<a href="https://gamedev.dou.ua/forums/topic/50509/?from=fpcomments#2881840" class="comment">
+						<span class="inner">Чергове нагадування — роби якісно свою роботу і все буде добре Або якщо перекласти мовою реального життя: «служи, дурачок, отримаєш значок» + «керівництву видніше, я начальник — ти дурень» і таке інше..</span>
+					</a>
+					<div class="meta">
+						<a class="userlink" href="https://dou.ua/users/sergii-zhorniak/">
+								<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_sergsmall.jpg" width="25" height="25" alt=""  srcset="https://s.dou.ua/img/avatars/50x50_sergsmall.jpg 1.1x">
+							Sergey Zhornak</a>
+в події						<a href="https://gamedev.dou.ua/forums/topic/50509/?from=fpcomments">Замість інженера з дронів мене відправили в штурмовики. Мій досвід служби у війську</a>
+					</div>
+				</div>
+				<div class="interesting-comment">
+					<a href="https://gamedev.dou.ua/forums/topic/50529/?from=fpcomments#2881822" class="comment">
+						<span class="inner">Та про це пишуть тут різні люди в кожній темі, проте редакція ігнорує, бо KPI по переглядах і розгніваних коментарях важливіше ніж якісний контент. Все як в жовтій пресі</span>
+					</a>
+					<div class="meta">
+						<a class="userlink" href="https://dou.ua/users/volodymyr-torkalo/">
+								<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_784696.jpg" width="25" height="25" alt=""  srcset="https://s.dou.ua/img/avatars/50x50_784696.jpg 1.1x">
+							Volodymyr Torkalo</a>
+в події						<a href="https://gamedev.dou.ua/forums/topic/50529/?from=fpcomments">Тепер всі розробники, які не роблять власні рушії — woke? Схоже, деякі гравці думають, що так</a>
+					</div>
+				</div>
+				<div class="interesting-comment">
+					<a href="https://gamedev.dou.ua/forums/topic/50529/?from=fpcomments#2881815" class="comment">
+						<span class="inner">А є така? 🤔 Ну мусить бути, раз мало тем від природнього обговорення учасників. Натомість маємо купу штучної копіпасти по шаблону «Х сказав Y. Обговорюємо». Як це пояснити як не виконанням якогось KPI ? Треба думку кожного дивака обговорювати на проф форумі про ІТ? Ви тільки псуєте репутацію сайту</span>
+					</a>
+					<div class="meta">
+						<a class="userlink" href="https://dou.ua/users/volodymyr-torkalo/">
+								<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_784696.jpg" width="25" height="25" alt=""  srcset="https://s.dou.ua/img/avatars/50x50_784696.jpg 1.1x">
+							Volodymyr Torkalo</a>
+в події						<a href="https://gamedev.dou.ua/forums/topic/50529/?from=fpcomments">Тепер всі розробники, які не роблять власні рушії — woke? Схоже, деякі гравці думають, що так</a>
+					</div>
+				</div>
+				<div class="interesting-comment">
+					<a href="https://gamedev.dou.ua/forums/topic/50509/?from=fpcomments#2881810" class="comment">
+						<span class="inner">Ну... Мопед не мій ;) В відповіли на мій коментар, метою якого і є, власне, показати, що порівнювати армію і приватний бізнес не треба, бо це безглуздо. Якщо ви підніметесь вище по гілці дискусії, то помітите, що не я порівнюю</span>
+					</a>
+					<div class="meta">
+						<a class="userlink" href="https://dou.ua/users/rustam-kirichenko/">
+								<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_ava_ysRXday.jpg" width="25" height="25" alt=""  srcset="https://s.dou.ua/img/avatars/50x50_ava_ysRXday.jpg 1.1x">
+							Rustam Kyrychenko</a>
+в події						<a href="https://gamedev.dou.ua/forums/topic/50509/?from=fpcomments">Замість інженера з дронів мене відправили в штурмовики. Мій досвід служби у війську</a>
+					</div>
+				</div>
+	</div>
+
+			</div>
+		</div>
+	</div>
+			</div>
+
+				<div class="col2 m-hide"></div>
+				<aside class="col24 m-hide">
+		<div class="b-block b-sponsors">
+					<a href="https://jobs.dou.ua/companies/dtek-llc/" target="_blank"><img alt="MODUS X" src="https://s.dou.ua/img/static/frontpage_logos/logo_MODUS_2.png" class="img"></a>
+					<a href="https://mhp4u.com.ua" target="_blank"><img alt="MHP" src="https://s.dou.ua/img/static/frontpage_logos/%D0%9C%D0%A5%D0%9F_logo.png" class="img"></a>
+					<a href="https://ukrsibbank.com/" target="_blank"><img alt="UKRSIBTECH" src="https://s.dou.ua/img/static/frontpage_logos/ukrsib_logo.png" class="img"></a>
+					<a href="https://squad.ua/" target="_blank"><img alt="SQUAD" src="https://s.dou.ua/img/static/frontpage_logos/squad_220.png" class="img"></a>
+					<a href="https://www.moonactive.com/?from=doufp" target="_blank"><img alt="Moon Active" src="https://s.dou.ua/img/static/frontpage_logos/moonactive_220.png" class="img"></a>
+					<a href="https://www.luxoft.com/?from=doufp" target="_blank"><img alt="Luxoft" src="https://s.dou.ua/img/static/frontpage_logos/Luxoft_purpl.png" class="img"></a>
+					<a href="https://jobs.dou.ua/companies/databet/" target="_blank"><img alt="DATA.BET" src="https://s.dou.ua/img/static/frontpage_logos/Databet_logo.png" class="img"></a>
+					<a href="https://career.sigma.software/?from=doufp" target="_blank"><img alt="Sigma Software" src="https://s.dou.ua/img/static/frontpage_logos/sigma_220.png" class="img"></a>
+					<a href="https://www.softserveinc.com/en-us/careers?from=doufp" target="_blank"><img alt="SoftServe" src="https://s.dou.ua/img/static/frontpage_logos/softserve_220.png" class="img"></a>
+					<a href="https://macpaw.com/?from=doufp" target="_blank"><img alt="MacPaw" src="https://s.dou.ua/img/static/frontpage_logos/macpaw_220.png" class="img"></a>
+					<a href="https://jobs.dou.ua/companies/playtech/vacancies/?from=doufp" target="_blank"><img alt="Playtech" src="https://s.dou.ua/img/static/frontpage_logos/playtech_220.png" class="img"></a>
+					<a href="https://jobs.dou.ua/companies/growe/?from=doufp" target="_blank"><img alt="Growe" src="https://s.dou.ua/img/static/frontpage_logos/Growe_logo.png" class="img"></a>
+					<a href="https://www.gen.tech/career?from=doufp" target="_blank"><img alt="Genesis" src="https://s.dou.ua/img/static/frontpage_logos/genesis__220.png" class="img"></a>
+					<a href="https://jobs.dou.ua/companies/delasport/" target="_blank"><img alt="Delasport" src="https://s.dou.ua/img/static/frontpage_logos/Delasport_Logo_Slogan_360x160_Black_1.jpg" class="img"></a>
+					<a href="https://www.itcraft.com.ua/?from=doufp" target="_blank"><img alt="IT Craft" src="https://s.dou.ua/img/static/frontpage_logos/itcraft_220.png" class="img"></a>
+					<a href="https://privatbank.ua/work/?from=doufp" target="_blank"><img alt="ПриватБанк" src="https://s.dou.ua/img/static/frontpage_logos/privatbank_220.png" class="img"></a>
+					<a href="http://www.materialise.kiev.ua/?from=doufp" target="_blank"><img alt="Materialise" src="https://s.dou.ua/img/static/frontpage_logos/materialise_220.png" class="img"></a>
+					<a href="https://svitla.com/career?from=doufp" target="_blank"><img alt="Svitla Systems, Inc." src="https://s.dou.ua/img/static/frontpage_logos/svitla_220_2.png" class="img"></a>
+					<a href="https://jatapp.biz/ua/" target="_blank"><img alt="JatApp" src="https://s.dou.ua/img/static/frontpage_logos/Logo_22098.png" class="img"></a>
+					<a href="https://jobs.dou.ua/companies/evoplay/vacancies/?from=doufp" target="_blank"><img alt="EVOPLAY" src="https://s.dou.ua/img/static/frontpage_logos/evoplay_220b.png" class="img"></a>
+					<a href="http://everymatrix.com" target="_blank"><img alt="EveryMatrix LTD" src="https://s.dou.ua/img/static/frontpage_logos/220.png" class="img"></a>
+					<a href="https://jobs.dou.ua/companies/gr8-tech/?from=doufp" target="_blank"><img alt="GR8 Tech" src="https://s.dou.ua/img/static/frontpage_logos/360.png" class="img"></a>
+					<a href="http://jobs.ciklum.com/?from=doufp" target="_blank"><img alt="Ciklum" src="https://s.dou.ua/img/static/frontpage_logos/ciklum_220a.png" class="img"></a>
+					<a href="https://company.plarium.com/ua/career/?from=doufp" target="_blank"><img alt="Plarium" src="https://s.dou.ua/img/static/frontpage_logos/plarium_220.png" class="img"></a>
+		</div>
+
+
+
+
+
+
+			<div class="b-dou-vacancies">
+
+
+				<h4 class="title __hot">Гарячі вакансії</h4>
+
+					<ul class="vacancies-list">
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/boosters-product-team/vacancies/278790/?from=widget_hot">Product Manager (Manifest)</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/boosters-product-team/?from=widget_hot"><img alt="" src="//s.dou.ua/img/static/favicons/32_9wMIOev.png">Boosters</a><span style="color: #787575;">, Київ, віддалено</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/semantic-sales/vacancies/225979/?from=widget_hot">Full stack Engineer (AI, власні продукти) — EU Only</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/semantic-sales/?from=widget_hot"><img alt="" src="//s.dou.ua/img/static/favicons/s32_m54k9vR.png">12New.AI (#AI)</a>, $3000–5000<span style="color: #787575;">, за кордоном, віддалено</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/betterme/vacancies/232601/?from=widget_hot">Product designer Web Team (polished UI must)</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/betterme/?from=widget_hot"><img alt="" src="//s.dou.ua/img/static/favicons/me32_QH9auQM.png">BetterMe</a><span style="color: #787575;">, Київ</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/delasport/vacancies/246836/?from=widget_hot">Junior Manual QA Engineer (full-time office, Kyiv)</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/delasport/?from=widget_hot"><img alt="" src="//s.dou.ua/img/static/favicons/32_2k7BPFa.png">Delasport</a><span style="color: #787575;">, Київ</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/wix/vacancies/276507/?from=widget_hot">System Engineer</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/wix/?from=widget_hot"><img alt="" src="//s.dou.ua/img/static/favicons/32_t8J72jT.png">WiX</a><span style="color: #787575;">, Київ</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/betterme/vacancies/269397/?from=widget_hot">Backend Engineer (Mobile Team)</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/betterme/?from=widget_hot"><img alt="" src="//s.dou.ua/img/static/favicons/me32_QH9auQM.png">BetterMe</a><span style="color: #787575;">, Київ, за кордоном, віддалено</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/moon-active/vacancies/268223/?from=widget_hot">UI Artist</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/moon-active/?from=widget_hot"><img alt="" src="//s.dou.ua/img/static/favicons/32_xnaVFVz.png">Moon Active</a><span style="color: #787575;">, Київ, віддалено</span>				</li>
+
+
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/gamzix/vacancies/280101/?from=widget_hot">Middle Typescript Front-End Engineer</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/gamzix/?from=widget_hot"><img alt="" src="//s.dou.ua/img/static/favicons/32_SzZCbYT.png">Gamzix</a><span style="color: #787575;">, Київ, Варшава (Польща), віддалено</span>				</li>
+	</ul>
+
+
+					<a class="more" href="https://jobs.dou.ua/?from=widget_hot">Всі вакансії</a>
+			</div>
+
+													<div class="b-adv-events">
+			<h4 class="title">Не пропустіть</h4>
+
+				<div class="adv-event-block">
+					<div class="date">
+						30 вересня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/51360/?from=premiumevents_7869" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/photo_2024-09-23_08-10-52/821f714f027f0666b4b69e5157defeeb.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/photo_2024-09-23_08-10-52/2df421ce03c9c06d0871da539d26cfe7.png 1.1x" alt="">
+								</div>
+
+						Курс «Практичне тестування» від SoftServe Academy
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						30 вересня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/51381/?from=premiumevents_7819" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/Screenshot_20ввв/262c7ba07d9f3538d004a6832e6e9043.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/Screenshot_20%D0%B2%D0%B2%D0%B2/f1f71a85d3e4388cdac09df82c20d0be.png 1.1x" alt="">
+								</div>
+
+						Онлайн-курс «Golang для розробників» від robot_dreams
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						30 вересня, Львів					</div>
+
+					<a class="link" href="https://dou.ua/calendar/51778/?from=premiumevents_7868" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/1727156812006/70601c237d8afe881cc008ed64ce4116.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/1727156812006/b06d404c244371b815684ad93411a77e.png 1.1x" alt="">
+								</div>
+
+						Unicorn Academy for Ukrainian defense tech companies in Lviv
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						30 вересня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/51624/?from=premiumevents_7849" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/S2B_1200x6280_llight_1/4134d43a004c4e4d42e58d9e016fa826.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/S2B_1200x6280_llight_1/ecf8de640379c0062aeb28a53918cc9b.png 1.1x" alt="">
+								</div>
+
+						Практична програма Science2Business для науковців та науковиць
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						2 жовтня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/51312/?from=premiumevents_7812" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/nst8JGuaBJAjlaxYcpyvOe1iv7NQ1OWeqDFAKWycEec_1/3fc2e59c1ae0a0382f7a76ff6f59d411.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/nst8JGuaBJAjlaxYcpyvOe1iv7NQ1OWeqDFAKWycEec_1/7e537c967aa6ecbe06be84480eca0e2f.png 1.1x" alt="">
+								</div>
+
+						Онлайн-курс «Node.js» від robot_dreams
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						2 — 8 жовтня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/51658/?from=premiumevents_7857" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/200х100_o7Lptkj/40ed51a61323d83fefdf679310ba7ade.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/200%D1%85100_o7Lptkj/db771bc20ea572a9d7d535f9e057f65b.png 1.1x" alt="">
+								</div>
+
+						Solana Radar Hackathon
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						2 жовтня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/51546/?from=premiumevents_7870" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/банер_becoming_a_CTO_1_4NY0WoV_zhp1xwO_gxHUDpg/50a0c4d1f1765c034fbc2db67d7f8d1b.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/%D0%B1%D0%B0%D0%BD%D0%B5%D1%80_becoming_a_CTO_1_4NY0WoV_zhp1xwO_gxHUDpg/83c2853d7cc7250d625cb05505aa62de.png 1.1x" alt="">
+								</div>
+
+						Курс Becoming a CTO від Projector
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						7 жовтня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/51772/?from=premiumevents_7867" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/36d7c54a-a090-40bb-8cbe-a4cdac9d1ee7/112666d89fe3169f8cf82a78ea390cb0.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/36d7c54a-a090-40bb-8cbe-a4cdac9d1ee7/54ec4691144067674f62830ac7468f81.png 1.1x" alt="">
+								</div>
+
+						Майстер-клас з автоматизації тестування: перші кроки з Playwright by Oleksandr Khotemskyi
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						25 жовтня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/51631/?from=premiumevents_7871" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/photo_2024-09-17_12-46-41_uOFP2yp/7427718db47e838af500c5ea44864a12.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/photo_2024-09-17_12-46-41_uOFP2yp/e81c964c684a121e19f78b32686127f1.png 1.1x" alt="">
+								</div>
+
+						Курс Linear Algebra від Projector
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						30 жовтня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/51825/?from=premiumevents_7878" target="_blank">
+								<div class="img">
+									<img src="https://s.dou.ua/CACHE/images/gstatic/adv_events/photo_2024-05-27_09-35-05_b0D2GQi_yC9zjRV/05c4d363f9f796f309dffdc2e4f48ddd.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/photo_2024-05-27_09-35-05_b0D2GQi_yC9zjRV/921009dbc763a2c5d7c8f174e62278a7.png 1.1x" alt="">
+								</div>
+
+						Курс англійської для айтівців від Englishdom
+					</a>
+				</div>
+		</div>
+
+	<script>
+		impressions.push({'adv_events': [7869, 7819, 7868, 7849, 7812, 7857, 7870, 7867, 7871, 7878]});
+	</script>
+
+
+
+				</aside>
+
+			<div class="cell m-hide"></div>
+		</div>
+	</div>
+
+
+
+
+<div class="b-index-communities-wrap" id="communities">
+	<div class="b-index-communities">
+		
+	<div class="b-block b-block_gamedev">
+		<div class="title">
+			<h3><a href="https://gamedev.dou.ua/?from=fpcommunity">GameDev</a></h3>
+
+			<div class="meta">
+						<span class="count">1664 учасники</span>
+
+
+			</div>
+		</div>
+
+		<div class="b-articles b-articles_tech">
+			<ul class="l-articles">
+
+					<ul class="b-community-top-authors">
+								<li><a href="https://dou.ua/users/andriy-moroz-5/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_696928618506799219945254475563244798345216n.jpg" width="25" height="25" alt="" title="Andrii Moroz" srcset="https://s.dou.ua/img/avatars/50x50_696928618506799219945254475563244798345216n.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/valentyna-podmazina/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_ertfg.jpg" width="25" height="25" alt="" title="Valentyna Podmazina" srcset="https://s.dou.ua/img/avatars/50x50_ertfg.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/zakhar-kosovich/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_zahar_EtyYisI.jpg" width="25" height="25" alt="" title="Захар Косович" srcset="https://s.dou.ua/img/avatars/50x50_zahar_EtyYisI.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/kirill-khlopkoff/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_photo2023-02-1821-44-03.jpg" width="25" height="25" alt="" title="Kirill Khlopkoff" srcset="https://s.dou.ua/img/avatars/50x50_photo2023-02-1821-44-03.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/daniil-goncharenko/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_afe07605-2085-4944-8145-8f84fcdc41ef_DQFWfvq.jpeg" width="25" height="25" alt="" title="Данііл Гончаренко" srcset="https://s.dou.ua/img/avatars/50x50_afe07605-2085-4944-8145-8f84fcdc41ef_DQFWfvq.jpeg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/olga-grib-2/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_img4711_8XzckUV.JPG" width="25" height="25" alt="" title="Ольга Гриб" srcset="https://s.dou.ua/img/avatars/50x50_img4711_8XzckUV.JPG 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/eugene-grishenko/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_gg2021photo.jpg" width="25" height="25" alt="" title="Yevgen Grishenko" srcset="https://s.dou.ua/img/avatars/50x50_gg2021photo.jpg 1.1x"></a></li>
+					</ul>
+
+
+							<li>
+								<a class="link" href="https://gamedev.dou.ua/news/valve-arch-linux/?from=fpcommunity">Valve офіційно доєдналася до роботи над Arch Linux та фінансово підтримає розробників</a>
+							</li>
+							<li>
+								<a class="link" href="https://gamedev.dou.ua/blogs/work-at-school-and-programming/?from=fpcommunity">Як поєднувати роботу в школі і програмування. Досвід Project Lead of Unreal Department</a>&nbsp;<a href="https://gamedev.dou.ua/blogs/work-at-school-and-programming/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121178">2</a>
+							</li>
+							<li>
+								<a class="link" href="https://gamedev.dou.ua/articles/developers-about-good-and-bad-in-level-design-games/?from=fpcommunity">Круто і не дуже. Досвідчені розробники розбирають дизайн рівнів Elden Ring, Dragon’s Dogma 2 та Alan Wake 2</a>
+							</li>
+							<li>
+								<a class="link" href="https://gamedev.dou.ua/news/ukrainian-developers-help-create-the-plucky-squire/?from=fpcommunity">«Один з найбільших наших релізів». Українська Pushka Studios брала участь в розробці нового хіта від Devolver Digital</a>&nbsp;<a href="https://gamedev.dou.ua/news/ukrainian-developers-help-create-the-plucky-squire/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121138">6</a>
+							</li>
+
+				<li class="more"><a class="link" href="https://gamedev.dou.ua/?from=fpcommunity">GameDev спільнота</a></li>
+			</ul>
+		</div>
+	</div>
+
+		
+	<div class="b-block b-block_frontend">
+		<div class="title">
+			<h3><a href="https://dou.ua/forums/tags/Front-end/?from=fpcommunity">Front-end</a></h3>
+
+			<div class="meta">
+						<span class="count">2835 учасників</span>
+
+
+			</div>
+		</div>
+
+		<div class="b-articles b-articles_tech">
+			<ul class="l-articles">
+
+					<ul class="b-community-top-authors">
+								<li><a href="https://dou.ua/users/dersmoll/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_avanew_sq.jpg" width="25" height="25" alt="" title="Olexander Smolianinov" srcset="https://s.dou.ua/img/avatars/50x50_avanew_sq.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/sergiy-babich/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_1713693015271.jpeg" width="25" height="25" alt="" title="Сергій Бабіч" srcset="https://s.dou.ua/img/avatars/50x50_1713693015271.jpeg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/maksym-rudnyi/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_me-2_FsSz9yB.jpg" width="25" height="25" alt="" title="Maksym Rudnyi" srcset="https://s.dou.ua/img/avatars/50x50_me-2_FsSz9yB.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/pavlyn-zagoruiko/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_ava6.jpeg" width="25" height="25" alt="" title="Pavlyn Zahoruiko" srcset="https://s.dou.ua/img/avatars/50x50_ava6.jpeg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/kirill-stronko/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_237802.jpg" width="25" height="25" alt="" title="Кирил Стронько" srcset="https://s.dou.ua/img/avatars/50x50_237802.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/vladyslav-dmitriiev/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_photo-dou-2.jpg" width="25" height="25" alt="" title="Vladyslav Dmitriiev" srcset="https://s.dou.ua/img/avatars/50x50_photo-dou-2.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/rodion-salnik/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_sjdhm3k9zz0.jpg" width="25" height="25" alt="" title="Rodion Salnik" srcset="https://s.dou.ua/img/avatars/50x50_sjdhm3k9zz0.jpg 1.1x"></a></li>
+					</ul>
+
+
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50527/?from=fpcommunity">Show your code Saturday: код-рев’ю #14</a>&nbsp;<a href="https://dou.ua/forums/topic/50527/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121209">2</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50501/?from=fpcommunity">Топ-5 найпоширеніших вразливостей у вебзастосунках</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50480/?from=fpcommunity">Відбувся реліз Deno 2.0 RC. Чи замінить він Node.js?</a>&nbsp;<a href="https://dou.ua/forums/topic/50480/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121111">4</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50453/?from=fpcommunity">Front-end Digest № 66. Архітектура мікрофронтенду, переосмислення CSS в JS та міграція на React 19</a>&nbsp;<a href="https://dou.ua/forums/topic/50453/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121055">1</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50423/?from=fpcommunity">Без ІТ-курсів та технічного вишу: як самостійно вивчити Front-end розробку та стати тимлідом</a>&nbsp;<a href="https://dou.ua/forums/topic/50423/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="120999">55</a>
+							</li>
+
+				<li class="more"><a class="link" href="https://dou.ua/forums/tags/Front-end/?from=fpcommunity">Front-end спільнота</a></li>
+			</ul>
+		</div>
+	</div>
+
+		
+	<div class="b-block b-block_devops">
+		<div class="title">
+			<h3><a href="https://dou.ua/forums/tags/DevOps/?from=fpcommunity">DevOps</a></h3>
+
+			<div class="meta">
+						<span class="count">1215 учасників</span>
+
+
+			</div>
+		</div>
+
+		<div class="b-articles b-articles_tech">
+			<ul class="l-articles">
+
+					<ul class="b-community-top-authors">
+								<li><a href="https://dou.ua/users/dmitriy-dyachenko/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_emergephoto_9om8jco.jpeg" width="25" height="25" alt="" title="Dima Diachenko" srcset="https://s.dou.ua/img/avatars/50x50_emergephoto_9om8jco.jpeg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/sergey-cherbadzhy/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_me_UhqL9Rj.jpg" width="25" height="25" alt="" title="Sergii Cherbadzhy" srcset="https://s.dou.ua/img/avatars/50x50_me_UhqL9Rj.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/ivan-revchuk-1/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_3367628021585537444280693433413404931391488n.jpg" width="25" height="25" alt="" title="Ivan Revchuk" srcset="https://s.dou.ua/img/avatars/50x50_3367628021585537444280693433413404931391488n.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/victor-karabedyants/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_vk.jpg" width="25" height="25" alt="" title="Victor Karabedyants" srcset="https://s.dou.ua/img/avatars/50x50_vk.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/vladimir-stetsenko/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_1698397358935.jpeg" width="25" height="25" alt="" title="Volodymyr Stetsenko" srcset="https://s.dou.ua/img/avatars/50x50_1698397358935.jpeg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/andrii-lazurkevych-1/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_photo2024-06-06-135938.jpeg" width="25" height="25" alt="" title="Andrii lazurkevych" srcset="https://s.dou.ua/img/avatars/50x50_photo2024-06-06-135938.jpeg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/evgenij-koshmanov/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_photo2022-11-1413-34-56.jpg" width="25" height="25" alt="" title="Євген Кошманов" srcset="https://s.dou.ua/img/avatars/50x50_photo2022-11-1413-34-56.jpg 1.1x"></a></li>
+					</ul>
+
+
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50108/?from=fpcommunity">Як використання Ansible полегшує життя Ops/DevOps інженерам</a>&nbsp;<a href="https://dou.ua/forums/topic/50108/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="120274">5</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50462/?from=fpcommunity">Фотозвіт з DOU DevOps Meetup 19 вересня в Києві</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50434/?from=fpcommunity">Панельна дискусія «Концепція Platform Engineering. Тренд, чи чергова заміна личок» записана на DOU DevOps meetup в Києві</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50429/?from=fpcommunity">Доповідь Костянтина Северенчука «Швидкість змін у DevOps та SRE, завдяки AI і не тільки» записана на DOU DevOps meetup в Києві</a>&nbsp;<a href="https://dou.ua/forums/topic/50429/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121014">2</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50414/?from=fpcommunity">Деплоймент Docker-контейнерів за допомогою Ptah.sh</a>&nbsp;<a href="https://dou.ua/forums/topic/50414/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="120978">16</a>
+							</li>
+
+				<li class="more"><a class="link" href="https://dou.ua/forums/tags/DevOps/?from=fpcommunity">DevOps спільнота</a></li>
+			</ul>
+		</div>
+	</div>
+
+		
+	<div class="b-block b-block_qa">
+		<div class="title">
+			<h3><a href="https://dou.ua/forums/tags/QA/?from=fpcommunity">QA</a></h3>
+
+			<div class="meta">
+						<span class="count">2418 учасників</span>
+
+
+			</div>
+		</div>
+
+		<div class="b-articles b-articles_tech">
+			<ul class="l-articles">
+
+					<ul class="b-community-top-authors">
+								<li><a href="https://dou.ua/users/alexandr-romanov/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_romanov.jpg" width="25" height="25" alt="" title="Oleksandr Romanov" srcset="https://s.dou.ua/img/avatars/50x50_romanov.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/maryna-dolhalova/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_519585.jpg" width="25" height="25" alt="" title="Maryna Dolhalova" srcset="https://s.dou.ua/img/avatars/50x50_519585.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/galina-zaharova-1/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_photo2021-11-1317-51-46.jpg" width="25" height="25" alt="" title="Halyna Zakharova" srcset="https://s.dou.ua/img/avatars/50x50_photo2021-11-1317-51-46.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/anna-voroshchuk-1/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_5f3bd4e7-8acd-4720-bfb5-decfe3d596a0.JPEG" width="25" height="25" alt="" title="Anna Voroshchuk" srcset="https://s.dou.ua/img/avatars/50x50_5f3bd4e7-8acd-4720-bfb5-decfe3d596a0.JPEG 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/oleksiiostapov/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_me_Jd4AqQs.jpg" width="25" height="25" alt="" title="Oleksii Ostapov" srcset="https://s.dou.ua/img/avatars/50x50_me_Jd4AqQs.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/evgenij-garmash/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_189147.jpg" width="25" height="25" alt="" title="Євген Гармаш" srcset="https://s.dou.ua/img/avatars/50x50_189147.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/yuliia-tokar/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_c5f9b9f2-a75e-459b-8296-2f2c9ffd2ec3.jpeg" width="25" height="25" alt="" title="Yuliia Tokar" srcset="https://s.dou.ua/img/avatars/50x50_c5f9b9f2-a75e-459b-8296-2f2c9ffd2ec3.jpeg 1.1x"></a></li>
+					</ul>
+
+
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50217/?from=fpcommunity">Як керувати поведінкою e2e-тестів Playwright з TypeScript-декораторами</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50387/?from=fpcommunity">Ефективний зворотний зв’язок щодо багів або як уникати конфліктів</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50355/?from=fpcommunity">Як ефективно використовувати AI у тестуванні та де цьому навчитись</a>&nbsp;<a href="https://dou.ua/forums/topic/50355/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="120829">27</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50333/?from=fpcommunity">Техніки тест-дизайну: як тестувати розумніше, а не складніше</a>&nbsp;<a href="https://dou.ua/forums/topic/50333/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="120778">7</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50283/?from=fpcommunity">Ділимось першими багами на честь Дня тестувальника 👾</a>&nbsp;<a href="https://dou.ua/forums/topic/50283/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="120663">3</a>
+							</li>
+
+				<li class="more"><a class="link" href="https://dou.ua/forums/tags/QA/?from=fpcommunity">QA спільнота</a></li>
+			</ul>
+		</div>
+	</div>
+
+		
+	<div class="b-block b-block_mobile">
+		<div class="title">
+			<h3><a href="https://dou.ua/forums/tags/Mobile/?from=fpcommunity">Mobile</a></h3>
+
+			<div class="meta">
+						<span class="count">778 учасників</span>
+
+
+			</div>
+		</div>
+
+		<div class="b-articles b-articles_tech">
+			<ul class="l-articles">
+
+					<ul class="b-community-top-authors">
+								<li><a href="https://dou.ua/users/azazellj-nevmerzhytsky/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_2018-09-02-135929.jpg" width="25" height="25" alt="" title="Volodymyr Nevmerzhytskyi" srcset="https://s.dou.ua/img/avatars/50x50_2018-09-02-135929.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/zoreslav-goral/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_449112049757975543874520910089360810597852n.jpg" width="25" height="25" alt="" title="Zoreslav Goral" srcset="https://s.dou.ua/img/avatars/50x50_449112049757975543874520910089360810597852n.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/andrej-silchuk/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_dscf1290-1.jpg" width="25" height="25" alt="" title="Андрей Сильчук" srcset="https://s.dou.ua/img/avatars/50x50_dscf1290-1.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/yegor-domachuk/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_2024-07-01-114348.jpg" width="25" height="25" alt="" title="Єгор Домачук" srcset="https://s.dou.ua/img/avatars/50x50_2024-07-01-114348.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/eugene-zuban/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_8d182f26-2b70-433e-9d2d-cde602e4ec41.jpeg" width="25" height="25" alt="" title="Eugene Zuban" srcset="https://s.dou.ua/img/avatars/50x50_8d182f26-2b70-433e-9d2d-cde602e4ec41.jpeg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/pavlo-bondar/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_fbf7575c-05b4-44ec-aeff-32e80e8f5e78.jpeg" width="25" height="25" alt="" title="Pavlo Bondar" srcset="https://s.dou.ua/img/avatars/50x50_fbf7575c-05b4-44ec-aeff-32e80e8f5e78.jpeg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/asomarketing-agency/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_photo2023-09-0217-18-31.jpg" width="25" height="25" alt="" title="Андрій Провізіон" srcset="https://s.dou.ua/img/avatars/50x50_photo2023-09-0217-18-31.jpg 1.1x"></a></li>
+					</ul>
+
+
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50521/?from=fpcommunity">Окремий mobile-розробник чи універсальний фахівець: що найкраще обрати для вашого проєкту</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50472/?from=fpcommunity">iOS дайджест #68: акселератор для Swift, оновлення Vapor 5, головне з Apple Event | @mainNews 29</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50425/?from=fpcommunity">Реліз Swift 6: нові бібліотеки для тестування, Embedded Swift, підтримка 128-бітових типів та інші апдейти</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50399/?from=fpcommunity">MacPaw відкриває бета-тестування Setapp для користувачів iOS в Європі</a>&nbsp;<a href="https://dou.ua/forums/topic/50399/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="120944">3</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50380/?from=fpcommunity">Оновлення є, а ШІ немає: Apple випустила нову iOS 18</a>&nbsp;<a href="https://dou.ua/forums/topic/50380/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="120897">2</a>
+							</li>
+
+				<li class="more"><a class="link" href="https://dou.ua/forums/tags/Mobile/?from=fpcommunity">Mobile спільнота</a></li>
+			</ul>
+		</div>
+	</div>
+
+		
+	<div class="b-block b-block_ai">
+		<div class="title">
+			<h3><a href="https://dou.ua/forums/tags/AI/?from=fpcommunity">AI</a></h3>
+
+			<div class="meta">
+						<span class="count">771 учасник</span>
+
+
+			</div>
+		</div>
+
+		<div class="b-articles b-articles_tech">
+			<ul class="l-articles">
+
+					<ul class="b-community-top-authors">
+								<li><a href="https://dou.ua/users/damien-berezenko-eliot/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_573209.jpg" width="25" height="25" alt="" title="Damien Berezenko" srcset="https://s.dou.ua/img/avatars/50x50_573209.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/sergej-podelkints/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_photo2024-06-0513-10-10_NCJRGAT.jpg" width="25" height="25" alt="" title="Сергій Труш" srcset="https://s.dou.ua/img/avatars/50x50_photo2024-06-0513-10-10_NCJRGAT.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/alexey-malyshev-2/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_1680198522621.jpg" width="25" height="25" alt="" title="Oleksii Malyshev" srcset="https://s.dou.ua/img/avatars/50x50_1680198522621.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/ikereinez/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_zobrazhennya2024-04-23152138085.jpg" width="25" height="25" alt="" title="Oleh Zhyntychka" srcset="https://s.dou.ua/img/avatars/50x50_zobrazhennya2024-04-23152138085.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/dmitriy-dyachenko/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_emergephoto_9om8jco.jpeg" width="25" height="25" alt="" title="Dima Diachenko" srcset="https://s.dou.ua/img/avatars/50x50_emergephoto_9om8jco.jpeg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/artur-8/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_me-cropped1.jpg" width="25" height="25" alt="" title="Артур Шев" srcset="https://s.dou.ua/img/avatars/50x50_me-cropped1.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/maryna-dolhalova/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_519585.jpg" width="25" height="25" alt="" title="Maryna Dolhalova" srcset="https://s.dou.ua/img/avatars/50x50_519585.jpg 1.1x"></a></li>
+					</ul>
+
+
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50517/?from=fpcommunity">П’ята Ахіллеса для ChatGPT</a>&nbsp;<a href="https://dou.ua/forums/topic/50517/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121188">56</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50522/?from=fpcommunity">Реліз розширеного голосового режиму в застосунку ChatGPT в Україні</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50513/?from=fpcommunity">Як Сем Альтман перетворює OpenAI на прибуткову машину</a>&nbsp;<a href="https://dou.ua/forums/topic/50513/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121181">3</a>
+							</li>
+							<li>
+								<a class="link" href="https://gamedev.dou.ua/forums/topic/50474/?from=fpcommunity">Генерація персонажа для гри</a>&nbsp;<a href="https://gamedev.dou.ua/forums/topic/50474/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121093">18</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50491/?from=fpcommunity">ШІ як ключ до процвітання: прогноз від гендиректора OpenAI</a>&nbsp;<a href="https://dou.ua/forums/topic/50491/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121132">33</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50495/?from=fpcommunity">Міра Мураті звільняється з посади СТО OpenAI, щоб займатись «власним дослідженням»</a>&nbsp;<a href="https://dou.ua/forums/topic/50495/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121136">28</a>
+							</li>
+
+				<li class="more"><a class="link" href="https://dou.ua/forums/tags/AI/?from=fpcommunity">AI спільнота</a></li>
+			</ul>
+		</div>
+	</div>
+
+		
+	<div class="b-block b-block_product">
+		<div class="title">
+			<h3><a href="https://dou.ua/forums/tags/Product/?from=fpcommunity">Product</a></h3>
+
+			<div class="meta">
+						<span class="count">190 учасників</span>
+
+
+			</div>
+		</div>
+
+		<div class="b-articles b-articles_tech">
+			<ul class="l-articles">
+
+					<ul class="b-community-top-authors">
+								<li><a href="https://dou.ua/users/chernichko-anton/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_portratrend9247.jpeg" width="25" height="25" alt="" title="Антон Чернічко" srcset="https://s.dou.ua/img/avatars/50x50_portratrend9247.jpeg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/zoreslav-goral/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_449112049757975543874520910089360810597852n.jpg" width="25" height="25" alt="" title="Zoreslav Goral" srcset="https://s.dou.ua/img/avatars/50x50_449112049757975543874520910089360810597852n.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/yelizaveta-skochko/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_img5334.jpeg" width="25" height="25" alt="" title="Yelyzaveta Skochko" srcset="https://s.dou.ua/img/avatars/50x50_img5334.jpeg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/yegor-domachuk/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_2024-07-01-114348.jpg" width="25" height="25" alt="" title="Єгор Домачук" srcset="https://s.dou.ua/img/avatars/50x50_2024-07-01-114348.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/olexander-paladiy/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_dsc082303square.jpg" width="25" height="25" alt="" title="Olexander Paladiy" srcset="https://s.dou.ua/img/avatars/50x50_dsc082303square.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/mariya-banders/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_me_rxxEDkJ.jpeg" width="25" height="25" alt="" title="Mariia Banders" srcset="https://s.dou.ua/img/avatars/50x50_me_rxxEDkJ.jpeg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/liubomyr-pivtorak/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_my-photo_etswy49.jpg" width="25" height="25" alt="" title="Liubomyr Pivtorak" srcset="https://s.dou.ua/img/avatars/50x50_my-photo_etswy49.jpg 1.1x"></a></li>
+					</ul>
+
+
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50486/?from=fpcommunity">Product Digest #0: AI повсюди, інновації Grammarly та інсайти від Notion</a>&nbsp;<a href="https://dou.ua/forums/topic/50486/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121124">1</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50482/?from=fpcommunity">Як подолати виклики A/B-тестування монетизації у мобільних застосунках</a>&nbsp;<a href="https://dou.ua/forums/topic/50482/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121114">3</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50360/?from=fpcommunity">Пам’ятайте: ОК — це не ок. Та ще 12 правил, щоб покращити текст кнопки</a>&nbsp;<a href="https://dou.ua/forums/topic/50360/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="120842">10</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50259/?from=fpcommunity">Дістатися seed-раунду. Від офісу без опалення до інвестицій від D3 та розвитку виробництва</a>&nbsp;<a href="https://dou.ua/forums/topic/50259/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="120618">4</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50207/?from=fpcommunity">Я програміст-волонтер з Польщі! Хочу показати Україні те, що може бути корисним 💙💛</a>&nbsp;<a href="https://dou.ua/forums/topic/50207/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="120484">5</a>
+							</li>
+
+				<li class="more"><a class="link" href="https://dou.ua/forums/tags/Product/?from=fpcommunity">Product спільнота</a></li>
+			</ul>
+		</div>
+	</div>
+
+		
+	<div class="b-block b-block_junior">
+		<div class="title">
+			<h3><a href="https://dou.ua/forums/tags/Junior/?from=fpcommunity">Junior</a></h3>
+
+			<div class="meta">
+						<span class="count">1316 учасників</span>
+
+
+			</div>
+		</div>
+
+		<div class="b-articles b-articles_tech">
+			<ul class="l-articles">
+
+					<ul class="b-community-top-authors">
+								<li><a href="https://dou.ua/users/oksana-nosenko/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_screen-shot-2023-05-03-at-25612-pm.jpg" width="25" height="25" alt="" title="Oksana Nosenko" srcset="https://s.dou.ua/img/avatars/50x50_screen-shot-2023-05-03-at-25612-pm.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/oleksandr-basalkevich/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_image-400.jpg" width="25" height="25" alt="" title="Олександр Басалкевич" srcset="https://s.dou.ua/img/avatars/50x50_image-400.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/liudmyla-zinchenko/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_487029.jpg" width="25" height="25" alt="" title="Liudmyla Zinchenko" srcset="https://s.dou.ua/img/avatars/50x50_487029.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/alla-kaplia/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_znimok-ekrana-z-2024-04-15-20-24-10.jpg" width="25" height="25" alt="" title="Alla Kaplia" srcset="https://s.dou.ua/img/avatars/50x50_znimok-ekrana-z-2024-04-15-20-24-10.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/destroev88/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_1719660392807.jpg" width="25" height="25" alt="" title="Anton Kalakutskyi" srcset="https://s.dou.ua/img/avatars/50x50_1719660392807.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/ivan-revchuk-1/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_3367628021585537444280693433413404931391488n.jpg" width="25" height="25" alt="" title="Ivan Revchuk" srcset="https://s.dou.ua/img/avatars/50x50_3367628021585537444280693433413404931391488n.jpg 1.1x"></a></li>
+								<li><a href="https://dou.ua/users/maryna-dolhalova/?from=fpcommunity_authors" target="_blank">	<img class="g-avatar" src="https://s.dou.ua/img/avatars/25x25_519585.jpg" width="25" height="25" alt="" title="Maryna Dolhalova" srcset="https://s.dou.ua/img/avatars/50x50_519585.jpg 1.1x"></a></li>
+					</ul>
+
+
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50512/?from=fpcommunity">Який пет-проєкт зробити, щоб перекваліфікуватися на Go</a>&nbsp;<a href="https://dou.ua/forums/topic/50512/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121180">2</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50424/?from=fpcommunity">Нейронки, пошук інформації, книги та відео — огляд основних методів навчання в IT</a>&nbsp;<a href="https://dou.ua/forums/topic/50424/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121000">7</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50423/?from=fpcommunity">Без ІТ-курсів та технічного вишу: як самостійно вивчити Front-end розробку та стати тимлідом</a>&nbsp;<a href="https://dou.ua/forums/topic/50423/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="120999">55</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50428/?from=fpcommunity">Як з піратством у вашому універі?</a>&nbsp;<a href="https://dou.ua/forums/topic/50428/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="121007">57</a>
+							</li>
+							<li>
+								<a class="link" href="https://dou.ua/forums/topic/50377/?from=fpcommunity">Ділюсь українським перекладом книги Деніела Шиффмана The Nature Of Code</a>&nbsp;<a href="https://dou.ua/forums/topic/50377/?from=fpcommunity#comments" class="g-comments-round __lazy" data-id="120891">1</a>
+							</li>
+
+				<li class="more"><a class="link" href="https://dou.ua/forums/tags/Junior/?from=fpcommunity">Junior спільнота</a></li>
+			</ul>
+		</div>
+	</div>
+
+				
+
+	</div>
+</div>
+	</div>
+
+<footer class="b-footer">
+	<div class="l-content m-db">
+		<div class="l-content-wrap m-db">
+			<div class="col2 m-hide"></div>
+			<div class="col18 m-db">
+				© 2005—2024 <strong><a href="https://dou.ua/">DOU.ua</a></strong>
+			</div>
+
+			<div class="col2 m-hide"></div>
+
+			<div class="col50 m-cola m-db">
+				<div class="social">
+						<span class="profiles_count"><a href="https://dou.ua/users/">Нас уже 734 795</a>.</span>
+					<span class="label">Ми в соцмережах:</span>
+						<a target="_blank" href="https://www.facebook.com/doucommunity"><img alt="Facebook" src="https://s.dou.ua/assets/img/facebook2.svg" width="19" height="19"></a>
+						<a target="_blank" href="https://twitter.com/doucommunity"><img alt="Twitter" src="https://s.dou.ua/assets/img/x.svg" width="19" height="19"></a>
+						<a target="_blank" href="https://github.com/devua/csv"><img alt="GitHub" src="https://s.dou.ua/assets/img/github.svg" width="19" height="19"></a>
+						<a target="_blank" href="https://www.linkedin.com/company/developers.org.ua/"><img alt="LinkedIn" src="https://s.dou.ua/assets/img/linkedin.png" width="19" height="19"></a>
+						<a target="_blank" href="https://dou.ua/telegram/"><img alt="Telegram" src="https://s.dou.ua/assets/img/telegram.svg" width="19" height="19"></a>
+						<a target="_blank" href="https://www.youtube.com/channel/UC6If-LcFxUDJhgL9dmB8oMA"><img alt="YouTube" src="https://s.dou.ua/assets/img/youtube.svg" style="width:23px;height:23px;top:0;" width="23" height="23"></a>
+						<a target="_blank" href="https://www.tiktok.com/@doucommunity"><img alt="TikTok" src="https://s.dou.ua/assets/img/tiktok.png" width="19" height="19"></a>
+						<a target="_blank" href="https://www.instagram.com/doucommunity/"><img alt="Instagram" src="https://s.dou.ua/assets/img/instagram.png" width="19" height="19"></a>
+						<a target="_blank" href="https://whatsapp.com/channel/0029Va4zO94HrDZlGGpBCl1I"><img alt="WhatsApp" src="https://s.dou.ua/assets/img/whatsapp2.svg" width="19" height="19"></a>
+				</div>
+
+				<div class="m-hide">
+						<a href="https://djinni.co/developers/?from=dou-footer" target="_blank" rel="noopener">Пошук програмістів на Джині</a>
+				</div>
+
+			</div>
+
+			<div class="col2 m-hide"></div>
+
+			<div class="col24 m-db m-cola">
+				<ul class="links">
+					<li><a href="https://dou.ua/contacts/">Контакти</a></li>
+					<li><a href="https://dou.ua/adv/">Реклама</a></li>
+					<li><a href="https://dou.ua/legal/">Legal</a></li>
+				</ul>
+
+					Пишіть нам на <a href="/cdn-cgi/l/email-protection#8bf8fefbfbe4f9ffcbefe4fea5feea"><span class="__cf_email__" data-cfemail="ed9e989d9d829f99ad898298c3988c">[email&#160;protected]</span></a>
+			</div>
+
+			<div class="col2 m-hide"></div>
+		</div>
+	</div>
+</footer>
+			<div class="modal-wrap">
+	<div class="modal-screen"></div>
+	<div id="_loginDialog" class="b-login-dialog">
+		<div class="head">
+			<div class="title">Скористайтесь акаунтом</div>
+			<div class="close cancel">×</div>
+		</div>
+
+		<div class="border">
+			<div class="step1">
+					<ul class="b-login-buttons">
+		<li>
+			<a class='button-link' href="javascript:;" l="/login/google-oauth2/" id="btnGoogle">
+				<div class="login-button btnGoogle">
+					<div class="layer bi bi-google"></div>
+				</div>
+				<div class="link">Google</div>
+			</a>
+		</li>
+		<li>
+			<a class='button-link' href="javascript:;" l="/login/linkedin-openidconnect/" id="btnLinkedIn">
+				<div class="login-button btnLin">
+					<div class="layer bi bi-linkedin"></div>
+				</div>
+				<div class="link">LinkedIn</div>
+			</a>
+		</li>
+		<li>
+			<a class='button-link' href="javascript:;" l="/login/github/" id="btnLoginGitHub">
+				<div class="login-button btnLoginGitHub">
+					<div class="layer bi bi-github"></div>
+				</div>
+				<div class="link">GitHub</div>
+			</a>
+		</li>
+		<li>
+			<a class="button-link" href="javascript:;" l="/login/facebook/" id="btnFb">
+				<div class="login-button btnFb">
+					<div class="layer bi bi-facebook"></div>
+				</div>
+				<div class="link">Facebook</div>
+			</a>
+		</li>
+	</ul>
+
+	<div class="alt-login-method">Увійти <a id='_loginByMail' href="javascript:;">за поштою</a>.
+	</div>
+
+			</div>
+			<div class="step2">
+				<ul class="b-content-menu">
+					<li class="sel" nav='login'>
+						<div class="text wrap">
+							<span>Вхід</span>
+							<b class="l"></b>
+							<b class="c"></b>
+							<b class="r"></b>
+						</div>
+					</li>
+					<li nav="register">
+						<div class="wrap">
+							<a href="javascript:;">Реєстрація</a>
+						</div>
+					</li>
+					<li nav="reset"><div class="wrap"><a href="javascript:;">Відновлення пароля</a></div></li>
+				</ul>
+					<div class="login view">
+		<div class="b-form">
+			<div class="table form-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row class">
+		<div class="cell"><label class="input-label" for="">Пошта</label></div>
+		<div class="cell">
+			<div class="input">
+				<input type="text"
+				 name="username"
+				 value=""
+class="first txtEmail"				>
+			</div>
+			
+		</div>
+	</div>
+				<div class="row class">
+					<div class="cell"><label class="input-label">Пароль</label></div>
+					<div class="cell">
+						<div class="input">
+							<input type="password" class="txtPassword" value="" name="password">
+							<a class="toggle-password bi bi-eye" href="#"></a>
+						</div>
+						<div id="wrong-password-message">Неправильний пароль</div>
+					</div>
+				</div>
+			</div>
+			<div class = "table button-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class = "row">
+					<div class = "cell"></div>
+					<div class = "cell">
+						<div class = "little-loading"></div>
+						<button class = "big-button btnSubmit">Увійти</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+					<div style="display:none;" class="register view">
+		<div class="table form-section">
+			<div class="message-closed">Реєстрацію по email закрито</div>
+		</div>
+	</div>
+
+					<div style="display:none;" class="reset view">
+		<div class="b-form">
+
+			<div class="table form-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+
+				<div class="row class">
+		<div class="cell"><label class="input-label" for="">Пошта</label></div>
+		<div class="cell">
+			<div class="input">
+				<input type="email"
+				 name="username"
+				 value=""
+class="first txtEmail"				>
+			</div>
+			
+		</div>
+	</div>
+			</div>
+
+			<div class="table button-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row">
+					<div class="cell"></div>
+					<div class="cell">
+						<div class="little-loading"></div>
+						<button class="big-button btnSubmit">Скинути пароль</button>
+						<div class="error-msg">
+							<div class="bg"></div>
+							<div class="txt">Ви неправильно вказали свою пошту</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+				<div class="alt-login-method">Або <a id='_loginBySN' href="javascript:;">скористайтесь акаунтом</a>.</div>
+			</div>
+				<div class="add-email" style="display:none;">
+		<div class="message" style="font-size:14px;margin-left:16px;margin-bottom:15px;">
+			Для того, щоб зробити ваш профіль повноцінним, вкажіть вашу пошту.<br>
+			Ми відправимо вам лист з посиланням для підтвердження.
+		</div>
+		<div class="b-form">
+			<form method="POST">
+				<div class="table form-section">
+					<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+
+					<div class="row class">
+		<div class="cell"><label class="input-label" for="">Пошта</label></div>
+		<div class="cell">
+			<div class="input">
+				<input type="email"
+				 name="email"
+				 value=""
+class="first txtEmail"				>
+			</div>
+			
+		</div>
+	</div>
+				</div>
+<input type='hidden' name='csrfmiddlewaretoken' value='uIRpSfrk7DRXV1gNdxYHjjB7dqe1TLEo2pECfCulK37SofTgiM36XIXdVMUf398c' />			</form>
+
+			<div class="table button-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row">
+					<div class="cell"></div>
+					<div class="cell b-buttons">
+						<div class="little-loading"></div>
+						<button class="big-button btnSubmit">Зберегти</button>
+						<div class="error-msg">
+							<div class="bg"></div>
+							<div class="txt">Ви неправильно вказали свою пошту</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+			<div class="agreement">
+				<label><input checked type="checkbox" id="agree-checkbox"> я згоден(-на)</label> з <a href="//dou.ua/legal/" target="_blank">умовами використання сайту</a> і <a href="//dou.ua/privacy/" target="_blank">політикою конфіденційності</a>.</label>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://s.dou.ua/build/built.v3937.27ba073.js"></script>
+
+		<script type="text/javascript" src="https://s.dou.ua/build/built.v3937.9965916.js"></script>
+
+
+	<script>
+		window.CSRF_TOKEN = "8sN8Q2FPa8F3q9HtmVXH86qqW7NHkKpTG9AldpIQNyVYTnkWra26MvMwEttVu8TH";
+			window.LOGIN_URL = "https://dou.ua/ajax-login/";
+			window.RESET_PASSWORD_URL = "https://dou.ua/j-lost-password/";
+		window.USER_ID = 0;
+		window.IS_MOBILE = "False";
+		window.IS_TABLET = "False";
+		window.LANG = "uk";
+
+				window.loginManager = new LoginManager();
+
+				function loginshow() {
+					window.loginManager.showLogin({
+						success: function() {
+							window.location.reload();
+						},
+					});
+					return false;
+				}
+
+				$("#login-link").click(loginshow);
+
+
+		$("#max-header-close-id").click(function(e) {
+			$.cookie("max-header", 1, { expires: 1, path: "/" });
+			$(this).parent().slideUp(200);
+		});
+
+$("#topinfo-close").click(function(e) {
+	$.cookie("topinfo", 1, { expires: 1, path: "/", domain: '.dou.ua' });
+	$("#topinfo").slideUp(150);
+	return false;
+});
+	new SwitchArticles();
+
+		new SlideArticles();
+
+
+
+
+	</script>
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments);};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s);}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '2592859804111805');
+	fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=2592859804111805&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+</body>
+</html>
