@@ -66,7 +66,6 @@ namespace HW_07
             try
             {
                 users = await GetUsersFromDbAsync();
-                Thread.Sleep(2000);
             }
             catch (OperationCanceledException)
             {
