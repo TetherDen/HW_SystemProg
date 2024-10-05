@@ -46,10 +46,6 @@ public partial class Form1 : Form
         this.Shown += Form1_Shown;
     }
 
-    private void NameTextBox_TextChanged(object sender, EventArgs e)
-    {
-    }
-
     private void SaveButton_Click(object sender, EventArgs e)
     {
         string userName = NameTextBox.Text;
@@ -111,11 +107,6 @@ public partial class Form1 : Form
     {
         OutputLabel.Text = InputTextBox.Text;
         TextLengthLabel.Text = $"Text Length: {InputTextBox.Text.Length}";
-    }
-
-    private void OutputLabel_Click(object sender, EventArgs e)
-    {
-
     }
 
     private void PrintButton_Click(object sender, EventArgs e)
@@ -200,15 +191,5 @@ public partial class Form1 : Form
     {
         TimeSpan elapsedTime = DateTime.Now - startTime;
         TimerLabel.Text = $"Timer: {elapsedTime:hh\\:mm\\:ss\\.ff}";
-    }
-
-    private void TextLengthLabel_Click(object sender, EventArgs e)
-    {
-
-    }
-
-    private void Form1_Load_1(object sender, EventArgs e)
-    {
-
     }
 }

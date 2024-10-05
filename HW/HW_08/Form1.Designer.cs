@@ -63,7 +63,6 @@ partial class Form1
         NameTextBox.Size = new Size(164, 26);
         NameTextBox.TabIndex = 1;
         NameTextBox.TextAlign = HorizontalAlignment.Center;
-        NameTextBox.TextChanged += NameTextBox_TextChanged;
         // 
         // SaveButton
         // 
@@ -127,7 +126,6 @@ partial class Form1
         OutputLabel.Name = "OutputLabel";
         OutputLabel.Size = new Size(418, 369);
         OutputLabel.TabIndex = 5;
-        OutputLabel.Click += OutputLabel_Click;
         // 
         // PrintButton
         // 
@@ -149,7 +147,6 @@ partial class Form1
         TextLengthLabel.TabIndex = 7;
         TextLengthLabel.Text = "TextLength:";
         TextLengthLabel.TextAlign = ContentAlignment.MiddleLeft;
-        TextLengthLabel.Click += TextLengthLabel_Click;
         // 
         // timer
         // 
@@ -190,7 +187,6 @@ partial class Form1
         MinimizeBox = false;
         Name = "Form1";
         Text = "My User RegistryEditor";
-        Load += Form1_Load_1;
         ResumeLayout(false);
         PerformLayout();
     }
