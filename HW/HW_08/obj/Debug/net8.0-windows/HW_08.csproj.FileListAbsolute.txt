@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\bin\Debug\net8.0-windows\HW_08.exe
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\bin\Debug\net8.0-windows\HW_08.deps.json
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\bin\Debug\net8.0-windows\HW_08.runtimeconfig.json
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\bin\Debug\net8.0-windows\HW_08.dll
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\bin\Debug\net8.0-windows\HW_08.pdb
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\obj\Debug\net8.0-windows\HW_08.Form1.resources
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\obj\Debug\net8.0-windows\HW_08.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\obj\Debug\net8.0-windows\HW_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\obj\Debug\net8.0-windows\HW_08.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\obj\Debug\net8.0-windows\HW_08.AssemblyInfo.cs
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\obj\Debug\net8.0-windows\HW_08.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\obj\Debug\net8.0-windows\HW_08.sourcelink.json
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\obj\Debug\net8.0-windows\HW_08.dll
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\obj\Debug\net8.0-windows\refint\HW_08.dll
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\obj\Debug\net8.0-windows\HW_08.pdb
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\obj\Debug\net8.0-windows\HW_08.genruntimeconfig.cache
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_08\obj\Debug\net8.0-windows\ref\HW_08.dll

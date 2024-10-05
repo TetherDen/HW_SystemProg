@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\bin\Debug\net8.0\HW_05.exe
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\bin\Debug\net8.0\HW_05.deps.json
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\bin\Debug\net8.0\HW_05.runtimeconfig.json
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\bin\Debug\net8.0\HW_05.dll
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\bin\Debug\net8.0\HW_05.pdb
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\obj\Debug\net8.0\HW_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\obj\Debug\net8.0\HW_05.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\obj\Debug\net8.0\HW_05.AssemblyInfo.cs
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\obj\Debug\net8.0\HW_05.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\obj\Debug\net8.0\HW_05.sourcelink.json
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\obj\Debug\net8.0\HW_05.dll
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\obj\Debug\net8.0\refint\HW_05.dll
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\obj\Debug\net8.0\HW_05.pdb
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\obj\Debug\net8.0\HW_05.genruntimeconfig.cache
+C:\Users\admin\source\repos\System_Programming\HW_sys\HW\HW_05\obj\Debug\net8.0\ref\HW_05.dll
